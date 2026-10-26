@@ -1,0 +1,11 @@
+{
+  "name": "Lớp Học Vui Nhộn - Học Tập, Tích Điểm & Đổi Quà",
+  "description": "Nền tảng học tập tiểu học tương tác cao: làm bài tập, tự động chấm điểm, tích lũy đổi quà, sơ đồ lớp, đồng hồ quả lắc gọi tên và trò chơi Camera AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
